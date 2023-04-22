@@ -1,0 +1,349 @@
+@media screen and (min-width: 1380px){
+  .valueSect2 {
+    padding: 100px 200px;
+    color: #083860;
+}
+}
+
+@media screen and (max-width:1200px) {
+    body{
+        font-size: 12px;
+    }
+
+    #imgFloatContainer h1 {
+    font-size: 2.8rem;
+    text-align: center;
+    padding-top: 210px;
+    line-height: 5rem;
+  }
+
+  #imgTopRight {
+    width: 210px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: absolute;
+    top: 12%;
+    right: 0;
+  }
+
+
+  #imgBottom {
+    width: 210px;
+    height: 130px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+  }
+
+  #imgBottomLeft {
+    width: 260px;
+    height: 170px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 12%;
+    left: 0;
+  }
+
+  .valueSect1 {
+    padding: 100px 200px;
+    color: #083860;
+    text-align: center;
+  }
+
+  .valueSect1 h1 {
+    font-size: 2.5rem;
+  }
+
+  .valueSect1 p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding-top: 30px;
+  }
+
+  .valueSect2 h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .valueSect2 .valuesFloat h2 {
+    padding-bottom: 1em;
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width:1024px) {
+    body{
+        font-size: 10px;
+    }
+
+    #imgFloatContainer h1 {
+    font-size: 2.3rem;
+    text-align: center;
+    padding-top: 240px;
+    line-height: 4rem;
+  }
+
+  .valueSect1 {
+    padding: 100px 150px;
+    color: #083860;
+    text-align: center;
+  }
+
+  .valueSect1 h1 {
+    font-size: 2.2rem;
+  }
+
+  .valueSect1 p {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+    padding-top: 30px;
+  }
+
+  .valueSect2 h1 {
+    font-size: 2.2rem;
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .valueSect2 .valuesFloat h2 {
+    padding-bottom: 1em;
+    font-size: 1.7rem;
+  }
+
+  
+}
+
+@media screen and (max-width:900px) {
+
+    #imgFloatContainer h1 {
+        font-size: 2.1rem;
+        text-align: center;
+        padding-top: 240px;
+        line-height: 3.5rem;
+      }
+    
+
+    #imgBottomLeft {
+        width: 210px;
+        height: 140px;
+        bottom: 30%;
+    }
+
+    #imgBottom {
+        width: 170px;
+        height: 110px;
+        right: 30%;
+        }  
+
+    #imgTopRight {
+        width: 180px;
+        height: 160px;
+        
+    }
+
+    
+    .valueSect1 {
+        padding: 100px 110px;
+        color: #083860;
+        text-align: center;
+      }
+
+      .valueSect1 h1 {
+        font-size: 2rem;
+      }
+
+      .valueSect2 .valuesFloat {
+        float: left;
+        width: 45%;
+        margin: calc(10% / 4);
+        border-radius: 5px;
+        background: #d4e7f3;
+        padding: 2.5em;
+        line-height: 2em;
+        height: 200px;
+    }
+
+      .valueSect2 h1 {
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 4rem;
+      }
+
+      .valueSect2 .valuesFloat h2 {
+        padding-bottom: 0.7em;
+        font-size: 1.5rem;
+      }
+}
+
+@media screen and (max-width:800px) {
+  .valueSect2 .valuesFloat p {
+    font-size: 10px;
+    color: #10558e;
+  }
+}
+
+
+@media screen and (max-width:768px) {
+
+    #imgFloatContainer {
+       height: 520px;
+      }
+    
+
+    #imgFloatContainer h1 {
+        font-size: 1.7rem;
+        text-align: center;
+        padding-top: 200px;
+        line-height: 2.5rem;
+      }
+    
+
+    #imgBottomLeft {
+        width: 190px;
+        height: 110px;
+        bottom: 30%;
+    }
+
+    #imgBottom {
+        width: 150px;
+        height: 90px;
+        right: 30%;
+        }  
+
+    #imgTopRight {
+        width: 140px;
+        height: 140px;
+        
+    }
+
+    
+
+    .valueSect2 .valuesFloat h2 {
+      padding-bottom: 0.8em;
+      font-size: 1.1rem;
+    }
+
+    body {
+      font-size: 9px;
+    }
+
+    
+
+    
+}
+
+@media screen and (max-width:640px) {
+
+  #imgFloatContainer {
+      height: 650px;
+    }
+
+  #imgFloatContainer h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      padding-top: 250px;
+      line-height: 3rem;
+    }
+
+    #imgTopRight {
+      width: 160px;
+      height: 150px;
+      top: 8%;
+    }
+
+    #imgBottomLeft {
+      width: 180px;
+      height: 170px;
+      bottom: 10%;
+    }
+
+    #imgBottom {
+      width: 130px;
+      height: 80px;
+      right: 0;
+      bottom: 120px;
+    }
+
+    #valueSect {
+      padding: 15px;
+    }
+
+    .valueSect1 {
+      padding: 30px 10px 50px 10px;
+      color: #083860;
+      text-align: center;
+    }
+
+    .valueSect1 h1 {
+      font-size: 1.7rem;
+    }
+    
+    .valueSect1 p {
+      text-align: justify;
+  }
+
+  .valueSect2 {
+    padding: 50px 0;
+}
+
+    .valueSect2 h1 {
+      font-size: 1.7rem;
+      text-align: center;
+      margin-bottom: 5rem;
+    }
+
+    .valueSect2 .valuesFloat {
+      float: left;
+      width: 95%;
+      margin-bottom: 25px;
+      border-radius: 10px;
+      background: #d4e7f3;
+      padding: 3em;
+      line-height: 2em;
+      height: 230px;
+    }
+
+    .valueSect2 .valuesFloat p {
+      font-size: 14px;
+      color: #10558e;
+      line-height: 2em;
+  }
+  
+}
+
+@media screen and (max-width: 400px) {
+  .valueSect2 .valuesFloat {
+    padding: 15px 1.5em 10px 1.5em;
+    line-height: 2em;
+}
+
+#imgFloatContainer h1 {
+  font-size: 37px;
+  text-align: center;
+  line-height: 3rem;
+  padding: 250px 5px 0 5px;
+}
+
+
+
+}
+
+@media screen and (max-width:625px) {
+  #imgBottomLeft {
+    width: 130px;
+    height: 150px;
+    bottom: 80px;
+}
+}
+

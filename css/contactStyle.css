@@ -1,0 +1,168 @@
+@font-face {
+    font-family: Okta Neue;
+    src: url(../fonts/Groteskly\ Yours\ -\ Okta\ Neue\ UltraLight.otf);
+  }
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #333;
+    overflow-x: hidden;
+}
+
+.acc-links a {
+    cursor: pointer;
+}
+
+#contactSect{
+    margin:150px 0;
+}
+
+#contactContainer{
+    max-width: 1250px;
+    margin: 0 auto 100px auto;
+}
+
+.floatContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 680px;
+    padding: 0 50px;
+    /* width: 90vw;
+    margin: 0 auto;  */
+}
+
+#txtSect{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    background: #d4e7f3;
+    height: 100%;
+    padding: 100 70px;
+    border-radius: 10px;
+    width: 50%;
+    color: #083860;
+}
+
+#txtSect h1{
+    font-size: 2.7rem;
+    margin-bottom: 0.9rem;
+    margin-left: 80px;
+    font-family: 'Okta Neue';
+    font-weight: bold;
+    font-style: normal;
+}
+
+#txtSect p{
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+    margin-left: 80px;
+    font-family: 'Okta Neue Normal';
+    font-weight: normal;
+    font-style: normal;
+}
+
+#formSect{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* background-image: url("../images/blue.jpg"); */
+    background-color: #083860;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    padding: 100px 0;
+    border-radius: 10px;
+    height: 100%;
+    width: 50%;
+}
+
+/* #formSect div{
+   margin:0 auto;
+} */
+
+.inputCont {
+    width:100%;
+    margin: 0 auto;
+    padding-left: 45px;
+}
+
+#formSect .inputFloat input {
+    width: 40%;
+    padding: 1.2em 1.8em;
+    margin-bottom:30px;
+    border-radius: 50px;
+    margin-right: 40px;
+    color: #b79d9d;
+    outline: none;
+    border: none;
+    font-family: 'Okta Neue Normal';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 13px;
+}
+
+
+#formSect .inputFloat input:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.inputFloat {
+    padding: 5px;
+}
+
+textarea{
+    width: 100%;
+    border-radius: 30px;
+    padding: 20px;
+    height: 100%;
+    color: #b79d9d;
+    outline: none;
+    border: none;
+    font-family: 'Okta Neue Normal';
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+#txtArea {
+    width: 80%;
+    margin: 0 50px;
+    height: 65%;
+}
+
+.submitBtn input {
+    background-color: #86DFE3;
+    color: #083860;
+    padding: 15px 60px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    transition: 0.3s;
+}
+
+.submitBtn input:hover{
+    color:#fff;
+    background: #29a6b2;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+
+form {
+    margin: 0 auto;
+}

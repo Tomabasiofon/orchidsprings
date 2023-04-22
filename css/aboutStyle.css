@@ -1,0 +1,171 @@
+@font-face {
+    font-family: Okta Neue;
+    src: url(../fonts/Groteskly\ Yours\ -\ Okta\ Neue\ UltraLight.otf);
+  }
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #333;
+    overflow-x: hidden;
+}
+
+
+
+
+#imgFloatContainer{
+    position: relative;
+    height: 600px;
+    max-width: 1350px;
+    background-color: #d4e7f3;
+    margin: 0 auto;
+    
+}
+
+#imgFloatContainer h1 {
+    font-size: 60px;
+    /* margin:25% auto 5% auto; */
+    color: #083860;
+    text-align: center;
+    padding-top: 190px;
+    line-height: 5.5rem;
+    letter-spacing: 1px;
+    font-family: 'Okta Neue';
+    font-weight: bold;
+    font-style: normal;
+}
+
+#imgTopRight{
+    width: 240px;
+    height: 230px;
+    background-image: url("../images/group1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: absolute;
+    top:12%;
+    right: 0;
+}
+
+#imgBottomLeft{
+    width: 280px;
+    height: 210px;
+    background-image: url("../images/book2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: absolute;
+    bottom:12%;
+    left: 0;
+}
+
+#imgBottom{
+    width: 250px;
+    height: 160px;
+    background-image: url("../images/blog1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    position: absolute;
+    bottom:0;
+    right: 30%;
+}
+
+
+#valueSect{
+    padding: 50px;
+}
+
+.valueSect1{
+    padding:100px 200px;
+    color: #083860 ;
+    text-align: center;
+}
+
+.valueSect1 h1 {
+    font-size: 2.7rem;
+    font-family: 'Okta Neue';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.valueSect1 h1 span {
+  border-bottom: 1.5px solid #083860;
+}
+
+
+.valueSect1 p {
+    font-size: 1rem;
+    line-height: 2rem;
+    padding-top: 20px;
+    font-family: 'Okta Neue Normal';
+    font-weight: normal;
+    font-style: normal;
+    color: #10558e;
+    text-align: justify;
+
+}
+
+.valueSect2{
+    padding:100px 0;
+    color: #083860 ;
+    /* height: fit-content; */
+}
+
+.valueSect2 h1 {
+    font-size: 2.7rem;
+    text-align: center;
+    margin-bottom: 4rem;
+    font-family: 'Okta Neue';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.valueSect2 h1 span {
+    border-bottom: 1.5px solid #083860;
+  }
+
+.valueSect2 .valuesFloat {
+    float: left;
+    width: 45%;
+    margin: calc(10% / 4);
+    border-radius: 5px;
+    background: #d4e7f3 ;
+    padding: 3em;
+    line-height: 2em;
+    height: 280px;
+    
+}
+
+.valueSect2 .valuesFloat h2 {
+    padding-bottom: 1em;
+    font-size: 2.2rem;
+    font-family: 'Okta Neue';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.valueSect2 .valuesFloat p {
+    font-family: 'Okta Neue Normal';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+    color: #10558e;
+}
+  
+.valueSect2:after{
+    content: "";
+    display: table;
+    clear: both;
+}

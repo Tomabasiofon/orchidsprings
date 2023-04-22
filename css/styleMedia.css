@@ -1,0 +1,1117 @@
+@media screen and (min-width: 1380px) {
+  .supervisedContain{
+    padding-left: 6rem;
+}
+}
+
+@media screen and (max-width:1366px) {
+.secGrigImg  {
+  height: 390px;
+  color:#fff;
+  width: 410px;
+  /* overflow: hidden; */
+}
+}
+
+@media screen and (max-width:1250px) {
+    body{
+        font-size: 12px;
+        overflow-x: hidden;
+    }
+
+    .supervisedContain{
+      max-width: 10000px;
+      padding-left: 6rem;
+      margin: 0;
+  }
+
+    .txt-div {
+        padding: 1.5rem;
+      }
+
+      .grid-disp {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-row-gap: 2rem;
+        grid-column-gap: 0rem;
+        align-items: center;
+      }
+
+
+    .grid-disp h1 {
+        margin-bottom: 1em;
+        color: #083860;
+        font-size: 3rem;
+        line-height: 3.5rem;
+        font-weight: bolder;
+      }
+
+      .grid-disp #topSectH1 {
+        margin-bottom: 0.5em;
+        color: #083860;
+        font-size: 50px;
+        line-height: 3rem;
+        font-weight: bolder;
+        font-family: 'Okta Neue';
+        font-weight: bold;
+        font-style: normal;
+
+      }
+
+      #topSectImg {
+        padding: 15px 45px 1px 5px;
+      }
+
+       #box1 {
+        color: #083860;
+        line-height: 1.5rem;
+      }
+
+      #box1 h1 {
+        font-size: 2rem;
+        padding-bottom: 0.5rem;
+      }
+
+      #box1 p{
+        letter-spacing: 0.05em;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 15px;
+        text-align: justify;
+    }
+
+      .serviceSect .span1 {
+        margin-left: 1em;
+        font-weight: bold;
+        font-size: 1rem;
+        color: #083860;
+        line-height: 42px;
+      }
+
+      .serviceSect .span2 {
+        margin-left: 67px;
+        color: #083860;
+        letter-spacing: 0.05em;
+        line-height: 20px;
+        font-size: 0.8rem;
+      } 
+      
+      .serviceSect i {
+        padding: 17px;
+        border-radius: 50%;
+        position: relative;
+        top: 15%;
+        }
+
+        #midSectImg {
+            padding: 100px 0 60px 2rem;
+          }
+
+          #midSectImg div {
+            height: 380px;
+            width: 90%;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 10px;
+            box-shadow: 15px -10px #083860;
+          }
+
+          #firstAboutSect h1 {
+            font-size: 30px;
+            color: #083860;
+          }
+
+          .grid-disp p {
+            font-size: 0.8rem;
+            color: #083860;
+            line-height: 24px;
+            padding-right: 50px;
+          }
+
+          .grid-disp .butn {
+            display: inline-block;
+            text-decoration: none;
+            background: #083860;
+            color: #fff;
+            margin-top: 2.3rem;
+            padding: 12px 50px;
+            font-weight: bold;
+            border-radius: 45px;
+            font-size: 11px;
+            transition: all 0.5s;
+          }
+
+          #firstAboutSect .secH1 {
+            font-size: 32px;
+            text-align: center;
+            color: #083860;
+            margin: 70px auto;
+          }
+
+          .secGrigImgDiv {
+            position: relative;
+            height: 100%;
+            width: 100%;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 5px;
+            margin-left: 1em;
+          }
+
+          .secGrigImg {
+            height: 380px;
+            color: #fff;
+            width: 400px;
+          }
+
+          .secGrigImg h3 {
+            margin-bottom: 0.6rem;
+            font-size: 1rem;
+          }
+
+          .secGrigImg p {
+            letter-spacing: 1px;
+            line-height: 20px;
+          }
+
+          .grid-disp2 p {
+            font-size: 0.72rem;
+          }
+
+          .secGridImgCont {
+            position: absolute;
+            bottom: 3.2em;
+            left: 2.2em;
+          }
+
+          #emailTxt {
+            text-align: left;
+            padding: 130px 85px;
+            background-color: #083860;
+            color: #fff;
+            height: 100%;
+          }
+
+          #emailTxt h1 {
+            font-size: 30px;
+          }
+
+          .emailLink a {
+        
+            padding: 5px 25px;
+           
+          }
+
+          #updateSectTxt h1 {
+            padding-bottom: 25px;
+            font-size: 30px;
+          }
+
+          #updateSectTxt p {
+            font-size: 0.8rem;
+            line-height: 22px;
+          }
+
+          #updateSectImg {
+            background: rgba(115, 194, 219, 0.2);
+           
+          }
+
+          #updateSectImg img {
+            height: 50px;
+            width: 80px;
+            position: absolute;
+            top: 8.5em;
+            left: 40%;
+          }
+
+          #updateLink a {
+            padding: 5px 25px;
+          }
+
+          #lastSectImg {
+            padding: 15px 0.1rem 15px 1rem;
+            margin-left: 1rem;
+          }
+
+          #lastSectImg div {
+            height: 450px;
+            width: 90%;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 5px;
+          }
+
+          #lastSectTxt p {
+            font-size: 0.8rem;
+            line-height: 26px;
+            letter-spacing: 2px;
+          }
+
+          #lastSectTxt #quoteMark {
+            font-size: 30px;
+            color: #000;
+          }
+
+          #lastSectTxt #quoteMarkTxt {
+            font-size: 0.9em;
+            font-weight: bold;
+            padding-top: 2em;
+            display: inline-block;
+          }
+}
+
+
+@media screen and (max-width:1024px) {
+    body{
+        font-size: 12px;
+    }
+
+    .txt-div {
+        padding: 1.5rem;
+      }
+
+    .grid-disp h1 {
+        margin-bottom: 1em;
+        color: #083860;
+        font-size: 2.1rem;
+        line-height: 2.5rem;
+        font-weight: bolder;
+      }
+
+      .grid-disp #topSectH1 {
+        margin-bottom: 0.5em;
+        color: #083860;
+        font-size: 45px;
+        line-height: 3rem;
+        font-weight: bolder;
+        font-family: 'Okta Neue';
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      .grid-disp #topSectP {
+        font-size: 14px;
+        color: #10558e;
+        line-height: 28px;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+        
+      }
+
+      .grid-disp p {
+        font-size: 0.7rem;
+        color: #083860;
+        line-height: 24px;
+      }
+
+      #topSectImg {
+        padding: 10px 30px 5px 15px;
+        border-radius: 10px;
+      }
+
+      .grid-disp .butn {
+        display: inline-block;
+        text-decoration: none;
+        background: #083860;
+        color: #fff;
+        margin-top: 2rem;
+        padding: 12px 50px;
+        font-weight: bold;
+        border-radius: 45px;
+        font-size: 11px;
+        transition: all 0.5s;
+      }
+
+      #box1 {
+        color: #083860;
+        line-height: 1.2rem;
+        padding-top: 10px;
+      }
+
+      #box1 p {
+        letter-spacing: 0.05em;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 12px;
+    }
+
+      #box1 h1 {
+        font-size: 1.5rem;
+        padding-bottom: 0.5rem;
+      }
+
+      .serviceSect i {
+        padding: 10px;
+        border-radius: 50%;
+        position: relative;
+        top: 15%;
+      }
+
+      .serviceSect .span1 {
+        margin-left: 1em;
+        font-weight: bold;
+        font-size: 0.7rem;
+        color: #083860;
+        line-height: 42px;
+      }
+
+      .serviceSect .span2 {
+        margin-left: 47px;
+        color: #083860;
+        letter-spacing: 0.05em;
+        line-height: 15px;
+        font-size: 0.6rem;
+      }
+
+      .serviceInd {
+        margin: 0 0 20px 0;
+        height: 100px;
+      }
+
+      #midSectImg div {
+        height: 300px;
+        width: 90%;
+      }
+
+      #firstAboutSect h1 {
+        font-size: 25px;
+        color: #083860;
+        margin-bottom: 0.8em;
+      }
+
+      #firstAboutSect .secH1 {
+        font-size: 30px;
+        text-align: center;
+        color: #083860;
+        margin: 50px auto;
+      }
+
+      #firstAboutSect p {
+        line-height: 24px;
+        font-size: 14px;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+        padding-right: 10px;
+      }
+
+      .midSectTxt {
+        padding-right: 50px;
+        color: #083860;
+        padding-left: 10px;
+      }
+
+      .secGrigImgDiv {
+        position: relative;
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 5px;
+        margin-left: 1em;
+      }
+
+      .secGrigImg {
+        height: 320px;
+        color: #fff;
+        width: 350px;
+      }
+
+      .secGrigImg p {
+        letter-spacing: 1px;
+        line-height: 18px;
+      }
+
+      .supervisedContain {
+        padding-left: 3.5em;
+      
+      }
+
+      .grid-disp2 p {
+        font-size: 0.65rem;
+      }
+
+      .secGridImgCont {
+        position: absolute;
+        bottom: 2em;
+        left: 1.5em;
+      }
+
+      .grid-disp2 {
+       
+        padding-bottom: 0px;
+      }
+
+      #emailSect {
+        height: 450px;
+      }
+
+      .emailLink a {
+        padding: 5px 15px;
+      }
+      .emailLink a {
+        font-size: 10px;
+        letter-spacing: 1px;
+        cursor: pointer;
+        text-decoration: none;
+        padding: 10px 30px;
+        font-weight: bold;
+        line-height: 24px;
+      }
+
+      #emailTxt {
+        text-align: left;
+        padding: 150px 80px;
+        background-color: #083860;
+        color: #fff;
+        height: 100%;
+      }
+
+      #emailTxt h1 {
+        font-size: 22px;
+      }
+
+      #updateSectTxt h1 {
+        padding-bottom: 20px;
+        font-size: 20px;
+      }
+      
+      #updateSectTxt p {
+        font-size: 0.7rem;
+        line-height: 22px;
+      }
+
+      #updateLink a {
+        padding: 5px 20px;
+      }
+      #updateLink a {
+        font-size: 10px;
+      }
+
+      #updateSectImg img {
+        height: 30px;
+        width: 50px;
+        position: absolute;
+        top: 9em;
+        left: 40%;
+      }
+
+      #lastSectImg div {
+        height: 330px;
+        width: 90%;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 5px;
+      }
+
+      #lastSectTxt p {
+        font-size: 0.6rem;
+        line-height: 20px;
+        letter-spacing: 1px;
+        padding-top: 10px;
+      }
+
+      #lastSectTxt #quoteMark {
+        font-size: 20px;
+        color: #000;
+      }
+
+      .leftArrow {
+        padding: 3px;
+        cursor: pointer;
+      }
+
+      .rightArrow {
+        padding: 7px;
+      
+      }
+}
+
+
+@media screen and (max-width:935px) {
+    .grid-disp #topSectH1 {
+        margin-bottom: 0.5em;
+        color: #083860;
+        font-size: 35px;
+        line-height: 3rem;
+        font-weight: bolder;
+        font-family: 'Okta Neue';
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      .txt-div {
+        padding: 0.5rem;
+      }
+
+      #box1 p {
+        letter-spacing: 0.05em;
+        font-size: 10px;
+      }
+
+      #firstAboutSect p {
+        line-height: 22px;
+        font-size: 12px;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+        padding-right: 20px;
+      }
+
+      .midSectTxt {
+        padding-right: 0;
+        color: #083860;
+        padding-left: 10px;
+      }
+
+      #firstAboutSect h1 {
+        font-size: 25px;
+        color: #083860;
+        margin-bottom: 0.4em;
+      }
+
+      #updateSectImg {
+        background: rgba(115, 194, 219, 0.2);
+        height: 250px;
+        border-radius: 10px;
+        padding: 100px;
+        width: 90%;
+        margin: 0 1rem;
+        text-align: center;
+        position: relative;
+      }
+
+}
+@media screen and (max-width:770px) {
+    body{
+        font-size: 12px;
+    }
+
+    .txt-div {
+        padding: 1rem;
+      }
+
+    .grid-disp h1 {
+        margin-bottom: 1em;
+        color: #083860;
+        font-size: 1.6rem;
+        line-height: 2rem;
+        font-weight: bolder;
+      }
+
+      .grid-disp #topSectH1 {
+        margin-bottom: 0.5em;
+        color: #083860;
+        font-size: 30px;
+        line-height: 2rem;
+        font-weight: bolder;
+        font-family: 'Okta Neue';
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      .grid-disp #topSectP {
+        font-size: 12px;
+        color: #10558e;
+        line-height: 24px;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      .grid-disp p {
+        font-size: 0.8rem;
+        color: #083860;
+        line-height: 24px;
+      }
+
+      #topSectImg {
+        padding: 5px 20px 5px 1px;
+        border-radius: 10px;
+      }
+
+      .grid-disp .butn {
+        display: inline-block;
+        text-decoration: none;
+        background: #083860;
+        color: #fff;
+        margin-top: 2rem;
+        padding: 15px 50px;
+        font-weight: bold;
+        border-radius: 45px;
+        font-size: 11px;
+        transition: all 0.5s;
+      }
+
+      #box1 h1 {
+        font-size: 1.1rem;
+        padding-bottom: 0.5rem;
+      }
+
+      #emailTxt {
+        padding: 150px 50px;
+        height: 100%;
+      }
+
+      #lastSectTxt {
+        padding: 0 100px 10px 0;
+      }
+
+      #lastSectImg div {
+        height: 280px;
+        width: 95%;
+      }
+
+      #lastSectTxt p {
+        padding-right: 20px;
+        padding-top: 30px;
+      }
+
+      .rightArrow {
+        cursor: pointer;
+        font-size: 1.1rem;
+      }
+
+      .arrowContainer {
+        margin-top: 0.5em;
+      }
+
+      .arrowContainer1 {
+        padding-bottom: 70px;
+        padding-right: 30px;
+        padding-top: 10px;
+      }
+
+      #updateLink a {
+        margin-top: 20px;
+      }
+}
+
+@media screen and (max-width:632px) {
+
+  
+    body{
+        font-size: 12px;
+    }
+
+    #topSect {
+        /* background-color: #F5F7F9; */
+        padding: 1rem 0;
+      }
+
+      .grid-disp #topSectH1 {
+        margin-bottom: 0.5em;
+        color: #083860;
+        font-size: 44px;
+        line-height: 3rem;
+      }
+
+      .grid-disp #topSectP {
+        font-size: 14px;
+        color: #10558e;
+        line-height: 24px;
+        padding-right: 20px;
+        text-align: justify;
+       
+      }
+
+      
+
+      .top {
+        margin-top: 30px;
+        padding-left: 1.5rem;
+        padding-right: 0.2rem;
+        max-width: 1300px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 10px;
+      }
+
+    .grid-disp {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row-gap: 2rem;
+        grid-column-gap: 2rem;
+        align-items: center;
+      }
+
+    .grid-disp h1 {
+        margin-bottom: 1em;
+        color: #083860;
+        font-size: 2.6rem;
+        line-height: 3rem;
+        font-weight: bolder;
+      }
+
+      .grid-disp p {
+        font-size: 0.9rem;
+        color: #083860;
+        line-height: 22px;
+      }
+
+      .rotated {
+        transform: rotate(2.5deg);
+      }
+
+      #topSectImg div {
+        padding-left: 3px;
+        padding-top: 15px;
+        border-radius: 30px;
+        border: 0.5px solid #083860;
+      }
+
+      #topSectImg {
+        padding: 30px 30px 5px 10px;
+        border-radius: 10px;
+      }
+
+
+
+      .grid-disp .butn {
+        display: inline-block;
+        text-decoration: none;
+        background: #083860;
+        color: #fff;
+        margin-top: 2rem;
+        padding: 15px 55px;
+        font-weight: bold;
+        border-radius: 45px;
+        font-size: 12px;
+        transition: all 0.5s;
+      }
+
+      #serviceSect .serviceSect {
+        max-width: 1400px;
+        margin: 50px auto;
+    }
+
+      #serviceSect {
+        margin: 70px auto 10px auto;
+        overflow-x: hidden;
+      }
+
+      #box1 {
+        float: none;
+        width: 100%;
+        margin: calc(15% / 6);
+        padding-top: 10px;
+        padding-bottom: 30px;
+        padding-left: 1em;
+      }
+
+      #box1 p {
+       display: none;
+      }
+
+      #box1 h1 {
+        font-size: 1.6rem;
+        padding-bottom: 0.5rem;
+      }
+
+      .serviceSect .serviceInd .span2  { 
+        margin-left: 86px; 
+        color: #083860;
+        letter-spacing: 0.05em;
+        line-height: 20px;
+        font-size: 0.8rem;
+    }
+
+      #serviceCont2 {
+        float: none;
+        width: 100%;
+        margin: calc(15% / 6);
+      }
+
+      #serviceCont3 {
+        float: none;
+        width: 100%;
+        margin: calc(15% / 6);
+      }
+
+      .serviceSect i {
+        padding: 20px;
+        border-radius: 50%;
+        position: relative;
+        top: 10%;
+        font-size: 16px;
+      }
+
+      .serviceSect .span1 {
+        margin-left: 1em;
+        font-weight: bold;
+        font-size: 1.5rem;
+        color: #083860;
+        line-height: 42px;
+      }
+
+
+      .serviceInd {
+        margin: 0 auto 0 auto;
+        height: 160px;
+        padding: 0px 15px 0px 0px;
+        width: 90vw;
+      }
+
+      #midSectImg {
+        padding: 100px 0 30px 2rem;
+      }
+
+     .midSectTxt {
+        display: block;
+        width: 90vw;
+        margin: 0 auto;
+        padding: 0 2em;
+       
+     }
+
+     #firstAboutSect .midSectTxt h1 {
+        font-size: 30px;
+        color: #083860;
+        margin-bottom: 5px;
+      }
+
+      #firstAboutSect .midSectTxt p {
+        font-size: 0.9rem;
+        color: #083860;
+        line-height: 30px;
+      }
+
+      #firstAboutSect p {
+        line-height: 20px;
+        font-size: 12px;
+        font-family: 'Okta Neue Normal';
+        font-weight: normal;
+        font-style: normal;
+        padding-right: 5px;
+      }      
+
+      .supervisedContain {
+        /* max-width: 1500px; */
+        padding-left: 1.5em;
+      }
+
+      .secGrigImg {
+        height: 300px;
+        color: #fff;
+        width: 320px;
+      }
+
+      .secGrigImg h3 {
+        margin-bottom: 0.6rem;
+        font-size: 1.5rem;
+      }
+
+      .grid-disp2 p {
+        font-size: 0.9rem;
+        line-height: 25px;
+      }
+
+      #emailSect {
+        height: fit-content;
+      }
+
+      .emailSect {
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        height: 100%;
+      }
+
+      #emailTxt {
+        padding: 100px 50px 0 50px;
+        height: 500px;
+      }
+
+      #emailTxt h1 {
+        font-size: 40px;
+        line-height: 60px;
+      }
+
+      #emailImg {
+        height: 370px;
+      }
+
+      .emailLink a {
+        font-size: 12px;
+        padding: 12px 55px;
+        line-height: 24px;
+        margin-top: 50px;
+      }
+
+      #updateSect {
+        height: fit-content;
+      }
+
+      .updateSect {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-column-gap: 1rem;
+        align-items: center;
+        height: 100%;
+        padding:150px 10px 50px;
+      }
+
+      #updateSectImg img {
+        height: 30px;
+        width: 50px;
+        position: absolute;
+        left: 40%;
+      }
+
+      #updateSectTxt {
+        color: #083860;
+        padding: 50px 3em 0 1.5em;
+      }
+
+      #updateSectTxt h1 {
+        padding-bottom: 5px;
+        font-size: 28px;
+      }
+
+      #updateSectTxt p {
+        font-size: 1rem;
+        line-height: 30px;
+    }
+
+    #updateLink a {
+        padding: 12px 60px;
+        background: #fff;
+        border: 1px solid #083860;
+        color: #083860;
+        font-size: 13px;
+        font-weight: normal;
+      }
+
+      #updateLink a:hover {
+        background: #083860;
+        color: #fff;
+       transition: 0.5s;
+      }
+
+      .container-inner {
+        margin: 70px auto;
+      }
+
+      #lastSectImg {
+        padding: 100px 0.5rem 10px 0.5rem;
+        margin: 0.5rem;
+      }
+
+      #lastSectTxt {
+        padding: 0 1rem 2.5rem 1rem;
+      }
+
+      #lastSectTxt #quoteMark {
+        font-size: 50px;
+        text-align: left;
+      }
+
+      #lastSectTxt p {
+        font-size: 0.9rem;
+        line-height: 25px;
+        padding-right: 10px;
+        padding-top: 30px;
+        padding-left: 5px;
+        text-align: center;
+      }
+
+      #lastSectTxt #quoteMarkTxt {
+        font-size: 1.5em;
+        padding-top: 2.5em;
+      }
+
+      .arrowContainer {
+        margin-top: 1em;
+      }
+
+
+      
+      
+
+      /* #emailTxt {
+        padding: 150px 50px;
+        height: 100%;
+      } */
+
+      #lastSectImg div {
+        height: 450px;
+        width: 100%;
+      }
+}
+
+@media screen and (max-width: 800px){
+  .serviceSect .span2 {
+    margin-left: 47px;
+    color: #083860;
+    letter-spacing: 0.05em;
+    line-height: 11px;
+    font-size: 0.6rem;
+}
+}
+
+@media screen and (max-width: 450px) {
+  #lastSectImg div {
+    height: 400px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #lastSectImg div {
+    height: 360px;
+    width: 100%;
+  }
+
+.top {
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
+
+#topSectImg {
+  padding: 30px 15px 5px 15px;
+  border-radius: 10px;
+  /* margin: auto; */
+}
+
+.midSectTxt {
+  display: block;
+  width: 90vw;
+  margin: 0 auto;
+  padding: 0 0px;
+}
+
+#midSectImg {
+  padding: 100px 0 30px 8px;
+}
+
+#emailTxt h1 {
+  font-size: 43px;
+  line-height: 60px;
+}
+
+#emailTxt {
+  padding: 100px 25px 0 25px;
+  height: 450px;
+}
+
+.emailLink a {
+  font-size: 12px;
+  padding: 12px 55px;
+  line-height: 24px;
+  margin-top: 30px;
+}
+}   
